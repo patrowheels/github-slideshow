@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-okay its changed
-Use the left arrow to go back!
+
+slide to the right!
+good job now slide to the left and cha cha real smooth with the left arrow
